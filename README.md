@@ -53,7 +53,7 @@ SmartExpenseTracker/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mugesh-rugby/smart-expense-tracker.git
+git clone https://github.com/Mugesh-rugby/Smart-Expense-Tracker.git
 ```
 
 ## 2. Open Project
